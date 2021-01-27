@@ -1,2 +1,1 @@
 # QA-app
-QA
